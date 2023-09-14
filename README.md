@@ -11,6 +11,8 @@ Custom API Data Fetching Hooks: I developed custom hooks for efficient data retr
 Code Quality: I embraced the principles of clean, well-organized, and maintainable code, establishing a solid foundation for long-term success.
 
 React Native Best Practices: I prioritized industry best practices in React Native development, ensuring that my skills are in line with current standards.
+
+
 <img width="430" alt="Screenshot 2023-09-14 173317" src="https://github.com/AaronMurillo01/job-search-app/assets/113479474/d855e486-c036-4e69-855c-8644372fefc9">
 
 
