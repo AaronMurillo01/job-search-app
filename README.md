@@ -16,6 +16,9 @@ React Native Best Practices: I prioritized industry best practices in React Nati
 <img width="430" alt="Screenshot 2023-09-14 173317" src="https://github.com/AaronMurillo01/job-search-app/assets/113479474/d855e486-c036-4e69-855c-8644372fefc9">
 
 
+https://github.com/AaronMurillo01/job-search-app/assets/113479474/cc2e17ac-3066-4d87-b9ac-e7f96d7815cb
+
+
 
 
 
