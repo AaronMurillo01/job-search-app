@@ -1,4 +1,4 @@
-# React Native App Job Search
+# React Native Job Search App
 
 Visually Appealing UI/UX: I discovered the art of crafting captivating user interfaces and seamless user experiences that keep users engaged and satisfied.
 
